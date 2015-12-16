@@ -36,13 +36,7 @@ while i<iTree:
   i=i+1
   
 i=0 
-j= ikormou
 x=int((x-2)/2)
 while i < ikormou:
        print(keno*x +star*platos + keno*x)
        i=i+1
-
-    
-   
-    
-  
